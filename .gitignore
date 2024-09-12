@@ -4,7 +4,7 @@ app/config/*
 log/*
 test.js
 sessions/*
-accounts/*
+accounts/accounts.js
 src/reference/*
 package-lock.json
 .DS_Store
