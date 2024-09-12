@@ -10,6 +10,7 @@
     - [Linux](#linux)
     - [Windows](#windows)
   - [Update Bot](#update-bot)
+  - [NOTE](#note)
   - [CONTRIBUTE](#contribute)
   - [SUPPORT](#support)
 
@@ -56,6 +57,10 @@ To update bot follow this step :
 1. run `git pull` or `git pull rebase` , if error run `git stash && git pull`
 2. run `npm update`
 3. start the bot
+
+## NOTE
+
+If you did'nt get BRN Point, change the config RAWDATA with yours. Where to get it ? do manual TX from ARB to OP or OP to ARB, and go to explorer and copy the Input Data as HEX.
 
 ## CONTRIBUTE
 
