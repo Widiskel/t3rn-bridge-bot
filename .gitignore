@@ -1,0 +1,14 @@
+node_modules
+config/config.js
+app/config/*
+log/*
+test.js
+sessions/*
+accounts/*
+src/reference/*
+package-lock.json
+.DS_Store
+build-config.json
+/index.js
+/src
+config/proxy_list.js
