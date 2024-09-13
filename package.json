@@ -8,7 +8,7 @@
     "start": "cp -r accounts app/ && cp config.js app/ && node app/index.js",
     "dev": "node index.js",
     "test": "node test.js",
-    "build": "rm -rf app && javascript-obfuscator --config build-config.json && mkdir -p app/config"
+    "build": "rm -rf app && javascript-obfuscator --config build-config.json"
   },
   "keywords": [
     "t3rn",

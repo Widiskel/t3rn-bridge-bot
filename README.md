@@ -35,10 +35,24 @@ New Airdrops : T3RN
 ## Setup & Configure BOT
 
 ### Linux
-1. clone project repo `git clone https://github.com/Widiskel/t3rn-bridge-bot.git` and cd to project dir `cd t3rn-bridge-bot`
-2. run `npm install`
-3. run `cp accounts/account_tmp.js accounts/accounts.js`.
-4. to start the app run `npm run start`.
+1. Clone project repo `git clone https://github.com/Widiskel/t3rn-bridge-bot.git` and cd to project dir `cd t3rn-bridge-bot`
+2. Run 
+   ```
+   npm install
+   ```
+3. Run 
+   ```
+   cp accounts/account_tmp.js accounts/accounts.js
+   ```
+4. Run 
+   ```
+   nano accounts/account.js
+   ```
+   and setup your accounts usig PK or Seed
+5. to start the app run 
+   ```
+   npm run start
+   ```
    
 ### Windows
 1. Open your `Command Prompt` or `Power Shell`.
@@ -60,7 +74,7 @@ To update bot follow this step :
 
 ## NOTE
 
-If you did'nt get BRN Point, change the config RAWDATA with yours. Where to get it ? do manual TX from ARB to OP or OP to ARB, and go to explorer and copy the Input Data as HEX.
+If you did'nt get BRN Point, change the config OP or ARB RAWDATA with yours. Where to get it ? do manual TX from ARB to OP or OP to ARB, and go to explorer and copy the Input Data as HEX.
 
 ## CONTRIBUTE
 
