@@ -74,6 +74,8 @@ To update bot follow this step :
 
 ## NOTE
 
+You can configure amount to swap on config file
+
 If you did'nt get BRN Point, change the config OP or ARB RAWDATA with yours. Where to get it ? do manual TX from ARB to OP or OP to ARB, and go to explorer and copy the Input Data as HEX.
 
 ## CONTRIBUTE
